@@ -4,7 +4,7 @@
 // @version      1.0.0
 // @description  Translate IMDb plot with Google endpoint. Block sits below the original, each line breaks, with loading spinner.
 // @description:zh-CN 使用 Google 翻译 IMDb 简介。
-// @author       you
+// @author       hex0x13h
 // @match        *://www.imdb.com/title/tt*
 // @grant        GM.xmlHttpRequest
 // @connect      translate.googleapis.com
